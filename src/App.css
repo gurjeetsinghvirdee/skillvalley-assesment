@@ -1,4 +1,18 @@
 *{
   margin: 0;
   padding: 0;
+
+}
+
+.icons {
+  top: 30px;
+}
+
+.header {
+  background-color: #E70175;
+  font-family: 'Inter';
+  font-size: 1rem;
+  font-weight: 300;
+  color: white;
+  
 }
