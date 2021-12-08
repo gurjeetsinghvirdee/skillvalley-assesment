@@ -5,14 +5,20 @@
 }
 
 .icons {
-  top: 30px;
+  margin: 0 .5rem;
 }
 
-.header {
+.header > h1{
   background-color: #E70175;
   font-family: 'Inter';
   font-size: 1rem;
   font-weight: 300;
+  padding: .5rem 0;
   color: white;
-  
+}
+
+.delivery {
+  box-shadow: 2px 5px;
+  padding: .5rem;
+  border: 1px solid #6b6666;
 }
